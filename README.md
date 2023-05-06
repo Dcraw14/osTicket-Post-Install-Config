@@ -162,3 +162,13 @@ Help Topics will help streamline your end-user’s help desk experience to ensur
 <br />
 <p align="right"> Next up, <a href="https://github.com/0xbythesecond/ticket-lifecycle"
 >Ticket Lifecycle </a></p>
+
+
+
+```
+<select>
+  <option value="option1">Option 1</option>
+  <option value="option2">Option 2</option>
+  <option value="option3">Option 3</option>
+</select>
+```
