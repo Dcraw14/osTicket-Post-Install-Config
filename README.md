@@ -160,5 +160,5 @@ Help Topics will help streamline your end-user’s help desk experience to ensur
 <p align="center"><b><i>“In twenty years from now on, you’ll be more disappointed by the things you didn’t do than by the things you did do."</p></b></i>🤔
 <br />
 <br />
-<p align="right"> Next up, <a href="https://github.com/0xbythesecond/ticket-lifecycle"
+<p align="right"> Next up, <a href="(https://github.com/Dcraw14/TicketLifecycle/blob/main/README.md)"
 >Ticket Lifecycle </a></p>
